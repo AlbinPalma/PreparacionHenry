@@ -7,5 +7,5 @@ function viajar(destino){
         console.log("Nos PERDIMOS")
     }
 }
-
+//control de flujo
 viajar('Argentina');

@@ -20,3 +20,5 @@ console.log(cajon1);
 //Null
 
 var sinNada = null;
+
+//variables

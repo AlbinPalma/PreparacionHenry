@@ -9,6 +9,7 @@ function otraFuncion(){
         cuidadoConElConsoleLog('Camilo')
     );
 }
+//funciones
 
 function cuidadoConElReturn(nombre){
     return nombre;
