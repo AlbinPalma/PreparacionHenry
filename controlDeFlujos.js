@@ -8,4 +8,4 @@ function viajar(destino){
     }
 }
 
-viajar('Brazil');
+viajar('Argentina');
