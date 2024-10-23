@@ -9,3 +9,13 @@ function viajar(destino){
 }
 //control de flujo
 viajar('Argentina');
+
+function puedeManejar(edad){
+    if(edad >= 18){
+        console.log(true);
+    }else{
+    console.log(false);
+    }
+}
+
+puedeManejar(2);
